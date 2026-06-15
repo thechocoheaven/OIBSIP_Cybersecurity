@@ -1,0 +1,26 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-15 18:26 +0530
+NSE: Loaded 158 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 18:26
+Completed NSE at 18:26, 0.00s elapsed
+Initiating NSE at 18:26
+Completed NSE at 18:26, 0.00s elapsed
+Initiating NSE at 18:26
+Completed NSE at 18:26, 0.00s elapsed
+Initiating SYN Stealth Scan at 18:26
+Scanning localhost (127.0.0.1) [1000 ports]
+Discovered open port 135/tcp on 127.0.0.1
+Discovered open port 445/tcp on 127.0.0.1
+Discovered open port 1043/tcp on 127.0.0.1
+Discovered open port 1042/tcp on 127.0.0.1
+Discovered open port 1434/tcp on 127.0.0.1
+Discovered open port 2869/tcp on 127.0.0.1
+Discovered open port 7778/tcp on 127.0.0.1
+Discovered open port 5357/tcp on 127.0.0.1
+Completed SYN Stealth Scan at 18:26, 1.28s elapsed (1000 total ports)
+Initiating Service scan at 18:26
+Scanning 8 services on localhost (127.0.0.1)
+Completed Service scan at 18:27, 43.67s elapsed (8 services on 1 host)
+Initiating OS detection (try #1) against localhost (127.0.0.1)
+NSE: Script scanning 127.0.0.1.
+Initiating NSE at 18:27

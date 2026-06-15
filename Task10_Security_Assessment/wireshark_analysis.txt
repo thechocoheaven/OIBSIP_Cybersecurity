@@ -1,0 +1,20 @@
+Wireshark Traffic Analysis
+
+Tool:
+Wireshark
+
+Objective:
+Capture and analyze network packets.
+
+Traffic Observed:
+- ICMP packets generated through ping
+- DNS requests
+- Network communication packets
+
+Security Findings:
+Packet analysis helps identify abnormal traffic patterns and suspicious communication.
+
+Recommendations:
+- Monitor network traffic regularly
+- Use encryption
+- Detect unusual packet behavior
